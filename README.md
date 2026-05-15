@@ -112,12 +112,6 @@ The project uses a simulated business dataset representing AtliQ Hardwares opera
 
 ---
 
-## 🖼️ Project Preview
-
-![AtliQ Adhoc SQL Insights Cover](assets/cover.png)
-
----
-
 ## 🚀 Business Impact
 
 - Improved visibility into sales and customer performance  
