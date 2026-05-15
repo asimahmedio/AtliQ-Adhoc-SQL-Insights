@@ -1,68 +1,130 @@
-![[AtliQ Adhoc SQL Insights Cover](assets/cover.png)](https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/AtliQ%20SQL%20Insights%20Overview_cleanup.png)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PowerPoint-Storytelling-orange?logo=microsoftpowerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Project-black?logo=github"/>
+  <img src="https://img.shields.io/badge/QUERYING-MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOMAIN-Consumer%20Goods-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANALYTICS-Business%20Insights-F59E0B?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://app.powerbi.com/links/RBZ00OcqZU?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=1961ad01-fc58-4994-8e81-2b3aeac9f246">
-    <img src="https://img.shields.io/badge/View%20Dashboard%20in%20Power%20BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  </a>
-  <a href="https://github.com/asimahmedhub/AtliQ-Adhoc-SQL-Insights/blob/main/Atliq_AdHoc_SQL_Insights.pptx">
-    <img src="https://img.shields.io/badge/Download%20Presentation-PPTX-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/VISUALIZATION-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/STORYTELLING-PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Completed-16A34A?style=for-the-badge" />
 </p>
 
-# 📊 AtliQ Ad-hoc SQL Insights  
+---
 
-## 📝 Project Overview  
-AtliQ Hardwares—India’s leading computer hardware maker with global reach—needed fast, data-backed answers to 10 ad-hoc business questions.  
-I stepped in as a data analyst, wrote validated MySQL queries, analyzed results, and delivered executive-ready insights in Power BI.  
+# 📊 AtliQ Ad-hoc SQL Insights
+
+An end-to-end SQL analytics project focused on solving real-world ad-hoc business requests for AtliQ Hardwares through data querying, business analysis, and executive-ready insight presentation.
 
 ---
 
-## 🎯 Objectives  
-- Write efficient SQL queries to solve 10 ad-hoc requests.  
-- Derive actionable insights from raw transactional data.  
-- Communicate results clearly for leadership decision-making.  
-- Present insights in a **management-ready presentation**.  
+## 📌 Problem Statement
+
+AtliQ Hardwares, a leading computer hardware manufacturer with global operations, required fast and accurate responses to multiple ad-hoc business requests spanning sales, products, customers, discounts, and supply chain performance.
+
+The business needed actionable insights to support strategic decision-making across departments using transactional and dimensional datasets.
 
 ---
 
-## 🗂️ Dataset & Metadata  
-Provided by **Codebasics** (imaginary AtliQ Hardwares dataset).  
-Key tables include:  
-- `dim_customer` → customer details (region, market, channel, etc.)  
-- `dim_product` → product attributes (division, segment, variant, etc.)  
-- `fact_sales_monthly` → monthly sales quantity per product & customer  
-- `fact_gross_price` → product gross price by year  
-- `fact_manufacturing_cost` → product cost details  
-- `fact_pre_invoice_deductions` → customer-level discount data  
+## 🎯 Project Objective
+
+Design and execute SQL-driven business analysis to:
+
+- Solve complex ad-hoc business questions  
+- Extract actionable insights from raw transactional datasets  
+- Analyze customer, product, and sales performance trends  
+- Present findings in a management-ready reporting format  
+- Support data-driven business decisions through analytics storytelling  
 
 ---
 
-## ❓ Ad-hoc Business Requests (Q1–Q10)  
-1. Markets where **AtliQ Exclusive** operates in **APAC**.  
-2. % increase in **unique products** in 2021 vs 2020.  
-3. **Unique product counts by segment**.  
-4. Segment with the **highest increase** in unique products (2021 vs 2020).  
-5. Products with **highest & lowest manufacturing costs**.  
-6. **Top-5 customers** by average **pre-invoice discount %** in FY2021 (India).  
-7. Monthly **gross sales** for **AtliQ Exclusive**.  
-8. **Quarter of 2020** with maximum **sold quantity**.  
-9. **Channel** contributing most to gross sales in FY2021 (with % share).  
-10. **Top-3 products** by sold quantity in each division (FY2021).  
+## ⚡ Solution Overview
+
+Developed a complete SQL analytics workflow using MySQL, Power BI, and PowerPoint to answer 10 business-critical requests involving:
+
+- Product growth analysis  
+- Customer discount evaluation  
+- Sales channel contribution  
+- Manufacturing cost analysis  
+- Market expansion tracking  
+- Product segmentation insights  
+- Gross sales trend analysis  
+- Division-level product performance  
 
 ---
 
-## 🛠️ Tools & Technologies  
-- **SQL (MySQL Workbench)** – querying & analysis  
-- **Power BI** – visualization & storytelling  
-- **PowerPoint** – presentation & insights communication  
-- **GitHub** – version control and portfolio showcase  
+## 🛠 Tools & Technologies
+
+- **MySQL** – Data querying and analytical processing  
+- **Power BI** – Data visualization and dashboard reporting  
+- **PowerPoint** – Executive storytelling and presentation design  
+- **GitHub** – Version control and portfolio management  
+- **Business Analytics** – KPI analysis and insight generation  
+
+---
+
+## 🗂️ Dataset Overview
+
+The project uses a simulated business dataset representing AtliQ Hardwares operations across customers, products, sales, pricing, and manufacturing.
+
+### Key Tables
+- `dim_customer` → Customer and market information  
+- `dim_product` → Product segmentation and attributes  
+- `fact_sales_monthly` → Monthly sales transactions  
+- `fact_gross_price` → Product pricing details  
+- `fact_manufacturing_cost` → Manufacturing cost data  
+- `fact_pre_invoice_deductions` → Discount and deduction analysis  
+
+---
+
+## ❓ Business Requests Solved
+
+### Q1–Q10 Analysis Areas
+1. APAC market analysis for AtliQ Exclusive  
+2. Unique product growth comparison (2021 vs 2020)  
+3. Product segmentation analysis  
+4. Segment-level product expansion trends  
+5. Manufacturing cost analysis  
+6. Top customer discount analysis  
+7. Monthly gross sales tracking  
+8. Quarterly sales quantity analysis  
+9. Sales channel contribution analysis  
+10. Top-performing products by division  
+
+---
+
+## 📈 Key Business Insights
+
+### Product Growth
+- Unique product portfolio increased by approximately **36.33%** in FY2021, growing from **245 to 334 SKUs**.
+
+### Sales Channel Performance
+- The **Retailer** channel generated nearly **69%** of total gross sales, making it the dominant revenue contributor.
+
+### Product Expansion
+- The **Accessories** segment experienced the highest expansion in product count during FY2021.
+
+### Customer Discount Analysis
+- Several Indian customers received exceptionally high average pre-invoice discounts (~29–31%), potentially impacting profit margins.
+
+### Sales Performance
+- Quarterly and monthly sales analysis identified peak-performing periods and high-demand divisions across multiple markets.
+
+---
+
+## 🖼️ Project Preview
+
+![AtliQ Adhoc SQL Insights Cover](assets/cover.png)
+
+---
+
+## 🚀 Business Impact
+
+- Improved visibility into sales and customer performance  
+- Enabled data-driven business decision-making  
+- Identified margin and discount optimization opportunities  
+- Supported product and channel performance analysis  
+- Delivered executive-ready business insights through SQL analytics 
 
 ---
 
