@@ -155,13 +155,11 @@ The project uses a simulated business dataset representing AtliQ Hardwares opera
 - 🎬 [**Watch Project Walkthrough Video**](https://www.loom.com/share/0fd6d6b022d8430ca3d2d1714c8c6fc0)
 
 
-
 ---
 
-## 🙌 Acknowledgements  
-- **Codebasics Resume Projects** for providing the dataset & case study.  
-- Inspired by real-world data analyst tasks — SQL querying + business storytelling.  
 
----
+## 🤝 Connect With Me
 
-⚡ *This project demonstrates my SQL querying, data analysis, and storytelling skills by solving real-world business problems with clear, actionable insights.*  
+- 🌐 LinkedIn: [Asim Ahmed](https://www.linkedin.com/in/asimahmedio)  
+- 💻 GitHub: [asimahmedhub](https://github.com/asimahmedhub)  
+- ✉️ Email: **asim.atia@gmail.com**
