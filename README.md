@@ -155,5 +155,5 @@ The project uses a simulated business dataset representing AtliQ Hardwares opera
 ## 🤝 Connect With Me
 
 - 🌐 LinkedIn: [Asim Ahmed](https://www.linkedin.com/in/asimahmedio)  
-- 💻 GitHub: [asimahmedhub](https://github.com/asimahmedhub)  
-- ✉️ Email: **asim.atia@gmail.com**
+- 💻 GitHub: [asimahmedio](https://github.com/asimahmedio)  
+- ✉️ Email: **asim.atia@gmail.com***
